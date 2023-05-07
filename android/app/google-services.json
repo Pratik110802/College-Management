@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "160641824544",
+    "project_id": "yolo-b82ec",
+    "storage_bucket": "yolo-b82ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160641824544:android:818143805224063c118945",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160641824544-o15g8ulbhtrp59kip8rije47aqp73sv2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.app",
+            "certificate_hash": "58cb83491664061f813b4103eb58a487e6e50bf3"
+          }
+        },
+        {
+          "client_id": "160641824544-vvogl3dpt5rba8mgtspca1ohorhf2s70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeAc1VBtGnlBCijDtL6z_XfU9qR0ghoCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160641824544-vvogl3dpt5rba8mgtspca1ohorhf2s70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
